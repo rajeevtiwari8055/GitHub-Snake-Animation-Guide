@@ -5,7 +5,7 @@ This repository includes a **YouTube video link 🎥** explaining the full setup
 Explore, learn, and bring your contribution graph to life with this fun and interactive guide!  
 Play with your GitHub activity 🎮 — watch your commits turn into a moving snake!
 
---
+---
 
 ## 📽️ Watch Tutorial
 
@@ -14,7 +14,7 @@ Play with your GitHub activity 🎮 — watch your commits turn into a moving sn
 
 ---
 
-## 🎁 Bonus Tip: Watch in Your Preferred Language  
+## 🎁 Bonus: Watch in Your Preferred Language  
 
 If you’re finding it hard to follow in English — no worries! 🌍  
 You can **choose your own language** and watch the full tutorial in any of the 12 available languages.  
