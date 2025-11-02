@@ -10,7 +10,7 @@
 ## 📽️ Watch Tutorial
 
 [![Snake Contribution Animation](https://img.youtube.com/vi/U-IVndCqXWc/maxresdefault.jpg)](https://youtu.be/U-IVndCqXWc?si=URwqUWpuY3OipL1c)  
-🎮 Click the image above ⬆️▶️ to watch the **Snake Contribution Animation** tutorial on YouTube.
+🎮 Click the image above ▶️ to watch the **Snake Contribution Animation** tutorial on YouTube.
 
 ---
 
