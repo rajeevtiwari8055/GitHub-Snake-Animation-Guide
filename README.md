@@ -1,9 +1,9 @@
 ## 🐍🎮 GitHub Snake Contribution Animation
 
-Helping others add the **Snake Contribution Animation 🐍** to their GitHub profile!  
-This repository includes a **YouTube video link 🎥** explaining the full setup process step-by-step.  
-Explore, learn, and bring your contribution graph to life with this fun and interactive guide!  
-Play with your GitHub activity 🎮 — watch your commits turn into a moving snake!
+> Helping others add the **Snake Contribution Animation 🐍** to their GitHub profile!  
+> This repository includes a **YouTube video link 🎥** explaining the full setup process step-by-step.  
+> Explore, learn, and bring your contribution graph to life with this fun and interactive guide!  
+> Play with your GitHub activity 🎮 — watch your commits turn into a moving snake!
 
 ---
 
@@ -61,11 +61,6 @@ You can **choose your own language** and watch the full tutorial in any of the 1
 
 ---
 
----
-
 > ⚠️ **Disclaimer:** Educational use only — all original tutorial rights belong to **Mr. Nitish Singh Sir (Technology Hell)**.
-
----
-
 
 ---
