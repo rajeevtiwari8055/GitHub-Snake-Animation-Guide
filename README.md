@@ -1,8 +1,11 @@
 ## 🐍🎮 GitHub Snake Contribution Animation
 
-Helping others add the **Snake Contribution Animation 🐍** to their GitHub profile! This repository includes a **YouTube video link 🎥** explaining the full setup process step-by-step. Explore, learn, and bring your contribution graph to life with this fun and interactive guide! Play with your GitHub activity 🎮 — watch your commits turn into a moving snake!
+Helping others add the **Snake Contribution Animation 🐍** to their GitHub profile!  
+This repository includes a **YouTube video link 🎥** explaining the full setup process step-by-step.  
+Explore, learn, and bring your contribution graph to life with this fun and interactive guide!  
+Play with your GitHub activity 🎮 — watch your commits turn into a moving snake!
 
----
+--
 
 ## 📽️ Watch Tutorial
 
@@ -58,16 +61,11 @@ You can **choose your own language** and watch the full tutorial in any of the 1
 
 ---
 
-## 🤝 Credit & 🧩 Original Code Reference  
+---
 
-This **GitHub Snake Contribution Animation 🐍** was originally created and demonstrated by **Mr. Nitish Singh Sir**,  
-founder of the YouTube channel **[Technology Hell](https://www.youtube.com/@TechnologyHell)**.  
+> ⚠️ **Disclaimer:** Educational use only — all original tutorial rights belong to **Mr. Nitish Singh Sir (Technology Hell)**.
 
-**Original Source Repository:** [Nitish Sir’s GitHub](https://github.com/technologyhell)
+---
 
-All rights, efforts, and creative credit for the original idea, code, and tutorial belong entirely to him.  
-
-This repository is a **simplified guide** made to help others understand and implement the same animation  
-in their own GitHub profiles — with full respect and acknowledgment for the original creator.
 
 ---
