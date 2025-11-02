@@ -32,7 +32,7 @@ You can **choose your own language** and watch the full tutorial in any of the 1
 > Ukrainian  
 > ```
 
-🎬 Just open the video on YouTube and turn on **Subtitles (CC)** → then click **Settings ⚙️ → Subtitles → Auto-translate** → select your preferred language!
+🎬 Just open the video on YouTube and turn on **Settings ⚙️** → **Audio Track** → then click → select your preferred language!
 
 ---
 
