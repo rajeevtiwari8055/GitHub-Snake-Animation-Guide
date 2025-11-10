@@ -48,7 +48,7 @@ You can **choose your own language**.
 >   <a href="https://technologyhellyt.blogspot.com/2024/10/snake-game-on-github-profile.html" target="_blank"><b>📖 Technology Hell Blog — Snake Game on GitHub Profile</b></a>
 > </div>  
 
-> Created by **Mr. Nitish Singh**, founder of the YouTube channel *Technology Hell*.  
+> Created by **Nitish Singh**, founder of the YouTube channel *Technology Hell*.  
 > All rights, original coding work, and tutorial content for this version are attributed to him and his channel.
 
 ---
